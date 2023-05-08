@@ -11,7 +11,7 @@ logo_text = "Geeky"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "This"
 author = "Akhil Singh"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
