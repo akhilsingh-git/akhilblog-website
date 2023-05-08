@@ -15,9 +15,9 @@ description = "This is meta description"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
+address = "India"
+mobile = "+917977439809"
+email = "singhakhil2018@email.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
