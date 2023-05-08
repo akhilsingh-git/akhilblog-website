@@ -2,7 +2,7 @@
 title: "Host your static website on Amazon S3 services + CI/CD pipeline with the domain name and SSL certificate"
 description: "#10WeeksOfCloudOps"
 image: "images/post/post-1.png"
-date: 2021-01-24T18:19:25+06:00
+date: 2023-05-04T18:19:25+06:00
 categories: ["infrastructure"]
 tags: ["tech", "cloud"]
 type: "regular" # available types: [featured/regular]
