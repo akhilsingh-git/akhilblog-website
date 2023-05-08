@@ -18,6 +18,7 @@ Reference:
 https://ankitjodhani.hashnode.dev/host-your-static-website-on-amazon-s3-services-cicd-pipeline-with-the-domain-name-and-ssl-certificate-10weeksofcloudops
 
 TABLE OF CONTENTS
+
 Synopsis
 Hello everybody, My name is Akhil Singh and currently I'm learning DevOps with #AWS. I have participated in the #10WeeksOfCloudOps challenge launched by Piyush Sachdeva. He is an amazing person and a very good teacher I personally learned many things from him. so this is our first challenge to host a static website on Amazon S3 using one of the CI/CD tools (in my case it is Cirrcleci) with the Domain name and SSL certificate. It mentions in the challenge that we have to use CDN so in my case I have used CloudFront service to distribute our website all over the world and it also helps people to access the website quickly. so let's get started.
 
