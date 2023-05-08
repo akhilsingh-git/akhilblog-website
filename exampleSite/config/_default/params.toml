@@ -12,7 +12,7 @@ logo_text = "Geeky"
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "Akhil Singh"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "India"
@@ -62,7 +62,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Welcome **!**"
-title_small = "to Akhil Singh Blog"
+title_small = "to Akhil Singh Blogsfis"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "All Devops Blogs"
