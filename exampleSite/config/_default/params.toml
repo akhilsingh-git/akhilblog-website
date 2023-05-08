@@ -62,7 +62,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Welcome **!**"
-title_small = "to Akhil Singh Blogsfis"
+title_small = "to Akhil Singh Blogs"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "All Devops Blogs"
